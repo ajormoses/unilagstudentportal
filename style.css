@@ -1,0 +1,139 @@
+* {
+	font-family: arial;
+	overflow-x: hidden;
+	
+}
+
+body {
+	background-color: #ECECEC;
+}
+
+.firstContainer{
+	padding-top: 30px;
+}
+
+.firstContainer img{
+	height: 230px;
+	width: 230px;
+}
+
+.firstContainer h1 {
+	font-size: 37px;
+	color: #8B6742;
+}
+
+.secondContainer {
+	border: 1px solid black;
+	width: 880px;
+	margin: 40px 30px 0 30px;
+	padding-left: 20px;
+	font-size: 15px;
+	color: #8B6742;
+	background-color: white;
+	border: 0.5px solid;
+	border-radius: 12px;
+	box-shadow: 2px 4px 1px 0px;
+}
+
+.secondContainer input {
+	height: 50px;
+	width: 850px;
+	margin-top: 10px;
+	background-color: white;
+	font-size: 30px;
+	border: 0.2px solid black;
+	outline: none;
+}
+
+
+.secondContainer button {
+	height: 60px;
+	width: 858px;
+	font-size: 20px;
+	text-align: center;
+	background-color: #000080;
+	color: white;
+	margin-top: 20px;
+	outline: none;
+}
+
+.buttom {
+	color: skyblue;
+}
+
+
+
+
+
+@media only screen and (min-width: 1200px) {
+
+* {
+	font-family: arial;
+	
+}
+
+body {
+	background-color: #ECECEC;
+}
+
+.firstContainer{
+	padding-top: 20px;
+}
+
+.firstContainer img{
+	height: 120px;
+	width: 120px;
+}
+
+.firstContainer h1 {
+	font-size: 30px;
+	color: #8B6742;
+}
+
+.secondContainer {
+	border: 1px solid black;
+	width: 880px;
+	margin: 40px 30px 0 220px;
+	padding-left: 20px;
+	font-size: 19px;
+	color: #8B6742;
+	background-color: white;
+	border: 0.5px solid;
+	border-radius: 12px;
+	box-shadow: 2px 4px 1px 0px;
+}
+
+.secondContainer input {
+	height: 50px;
+	width: 850px;
+	margin-top: 10px;
+	background-color: white;
+	font-size: 30px;
+	border: 0.2px solid black;
+	outline: none;
+}
+
+
+.secondContainer button {
+	height: 60px;
+	width: 858px;
+	font-size: 20px;
+	text-align: center;
+	background-color: #000080;
+	color: white;
+	margin-top: 20px;
+	outline: none;
+}
+
+.buttom {
+	color: skyblue;
+}
+}
+
+
+
+
+
+
+
+
